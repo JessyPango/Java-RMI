@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP/TP.iml" filepath="$PROJECT_DIR$/TP/TP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutoRMI/TutoRMI.iml" filepath="$PROJECT_DIR$/TutoRMI/TutoRMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/exempleCours.iml" filepath="$PROJECT_DIR$/exempleCours.iml" />
     </modules>
   </component>

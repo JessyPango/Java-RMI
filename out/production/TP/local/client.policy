@@ -1,0 +1,3 @@
+grant codeBase "file:/home/jessy/Bureau/RMI/exempleCours/out/production/TP/remote" {
+  permission java.security.AllPermission;
+};
